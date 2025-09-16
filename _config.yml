@@ -2,11 +2,9 @@ title: Michael van Putten # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   YouTuber | Founder of Eden Group Capital 
-  <br>
-  <br>
+  <br><br>
   Passionate about the intersection of wellness, finance, and data.
-  <br>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/mikedjvp/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
